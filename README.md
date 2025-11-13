@@ -1,4 +1,3 @@
-[nds-data.html](https://github.com/user-attachments/files/23519832/nds-data.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
